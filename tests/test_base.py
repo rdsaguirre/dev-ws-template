@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from dev_ws_template.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "dev_ws_template"
